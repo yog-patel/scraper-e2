@@ -103,7 +103,40 @@ const {
 async function main() {
 
     const urls = [
-        "https://www.mvlempyr.com/novel/blessed-to-be-the-villain"
+  "https://www.mvlempyr.com/novel/even-posing-as-a-hero-is-easy-why-cause-im-a-god",
+  "https://www.mvlempyr.com/novel/even-though-im-a-former-noble-and-a-single-mother-my-daughters-are-too-cute-and-working-as-an-adventurer-isnt-too-much-of-a-hassle",
+  "https://www.mvlempyr.com/novel/every-vicious-woman-needs-a-loyal-man",
+  "https://www.mvlempyr.com/novel/everyone-thinks-that-i-like-him",
+  "https://www.mvlempyr.com/novel/everything-was-a-mistake",
+  "https://www.mvlempyr.com/novel/evil-dragon-the-young-dragon-i-picked-up-keeps-planning-on-becoming-an-empress",
+  "https://www.mvlempyr.com/novel/evil-emperors-wild-consort",
+  "https://www.mvlempyr.com/novel/evil-god-average",
+  "https://www.mvlempyr.com/novel/evil-husband-glutton-wife-buy-miss-piggy-get-free-little-buns",
+  "https://www.mvlempyr.com/novel/evil-like-duke-household",
+  "https://www.mvlempyr.com/novel/evil-mcs-ntr-harem",
+  "https://www.mvlempyr.com/novel/evolution-begins-with-an-ant-colony",
+  "https://www.mvlempyr.com/novel/evolution-of-the-ruined-heir",
+  "https://www.mvlempyr.com/novel/evolution-the-bloodthirsty-saga-of-the-magic-engineer",
+  "https://www.mvlempyr.com/novel/evolution-theory-of-the-hunter",
+  "https://www.mvlempyr.com/novel/evolving-infinitely-from-ground-zero",
+  "https://www.mvlempyr.com/novel/evolving-my-undead-legion-in-a-game-like-world",
+  "https://www.mvlempyr.com/novel/ex-rank-supporting-roles-replay-in-a-prestigious-school",
+  "https://www.mvlempyr.com/novel/ex-rank-talent-awakening-100-dodge-rate",
+  "https://www.mvlempyr.com/novel/ex-strongest-swordsman-longs-for-magic-in-different-world",
+  "https://www.mvlempyr.com/novel/exorcists-self-cultivation",
+  "https://www.mvlempyr.com/novel/exploring-immortality-cultivation",
+  "https://www.mvlempyr.com/novel/extra-and-mc",
+  "https://www.mvlempyr.com/novel/extra-borne-transmigrated-into-a-system-apocalypse-soulsborne-novel",
+  "https://www.mvlempyr.com/novel/extra-demon-sacred-academy-of-light",
+  "https://www.mvlempyr.com/novel/extra-of-the-magus-academy",
+  "https://www.mvlempyr.com/novel/extra-pages-the-authors-odyssey",
+  "https://www.mvlempyr.com/novel/extra-to-protagonist",
+  "https://www.mvlempyr.com/novel/extras-ascent",
+  "https://www.mvlempyr.com/novel/extras-death-i-am-the-son-of-hades",
+  "https://www.mvlempyr.com/novel/extras-descent",
+  "https://www.mvlempyr.com/novel/extras-harem-invincibility-starts-with-marriage-and-lots-of-children",
+  "https://www.mvlempyr.com/novel/extras-perfect-ending",
+  "https://www.mvlempyr.com/novel/extras-pov-my-obsessive-villainous-fiancee-is-the-games-final-boss"
       ];
 
     const browser = await launchBrowser();
